@@ -1,4 +1,4 @@
-###Area per brainstorming e reference per il progetto
+Area per brainstorming e reference per il progetto
 ---
 
 **Links**
