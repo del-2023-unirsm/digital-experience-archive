@@ -27,4 +27,3 @@ Area per brainstorming e reference per il progetto
 - https://www.campobaeza.com/scenography-greek-theatre-syracuse/ 
 - https://www.scenographytoday.com/design/
 - https://www.scenographytoday.com/production/lucinda-childs-and-robert-wilson-relative-calm/
-- 
