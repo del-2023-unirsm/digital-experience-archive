@@ -1,8 +1,6 @@
 Area per brainstorming e reference per il progetto
 ---
 
-**Links**
-
 ### LAS, Berlin
 - LAS, Judy Chicago, smoke and rainbow https://lightartspace.org/programme/judy-chicago-rainbow-ar 
 - LAS, Robert Irwin, lights https://lightartspace.org/programme/judy-chicago-rainbow-ar
