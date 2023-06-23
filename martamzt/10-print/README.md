@@ -1,5 +1,14 @@
 # 10 print variations ✨
 
+### variazioni personali in p5.js
+* [variazione-1](https://editor.p5js.org/martona/sketches/ZyFpHFZ7j)
+* [variazione-1b](https://editor.p5js.org/martona/sketches/HffM1n51N)
+* [variazione-2](https://editor.p5js.org/martona/sketches/PKjfdZOjM)
+* [variazione-3](https://editor.p5js.org/martona/sketches/pbxA5awVb)
+* [variazione-finale](https://editor.p5js.org/martona/sketches/f-HIR1z4_)
+
+***
+
 ## main references
 - [10PRINT Book](https://10print.org/) 
 - [The Coding Train](https://www.youtube.com/watch?v=bEyTZ5ZZxZs) 
@@ -15,5 +24,4 @@
 *  https://openprocessing.org/sketch/863664
 *  https://openprocessing.org/sketch/1024607
 
-## tentativi di variazioni personali in p5.js
-* [sketch-1](https://editor.p5js.org/martona/sketches/ZyFpHFZ7j)
+
