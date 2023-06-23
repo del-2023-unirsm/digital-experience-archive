@@ -1,7 +1,5 @@
-###Area per brainstorming e reference per il progetto
+Area per brainstorming e reference per il progetto
 ---
-
-**Links**
 
 ### LAS, Berlin
 - LAS, Judy Chicago, smoke and rainbow https://lightartspace.org/programme/judy-chicago-rainbow-ar 
@@ -27,4 +25,3 @@
 - https://www.campobaeza.com/scenography-greek-theatre-syracuse/ 
 - https://www.scenographytoday.com/design/
 - https://www.scenographytoday.com/production/lucinda-childs-and-robert-wilson-relative-calm/
-- 
